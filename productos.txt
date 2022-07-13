@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Fideos",
+    "price": 150,
+    "thumbnail": "https://www.recetas-argentinas.com/base/stock/Recipe/41-image/41-image_web.jpg",
+    "id": 1
+  },
+  {
+    "title": "Hamburguesa",
+    "price": 680,
+    "thumbnail": "https://live.hsmob.io/storage/images/recetasdecocina.elmundo.es/recetasdecocina.elmundo.es_wp-content_hamburguesa-casera.jpg",
+    "id": 2
+  },
+  {
+    "title": "Milanesas con Papas",
+    "price": 230,
+    "thumbnail": "https://www.agssoft.ar/DOS/fotos/milanesa_con_papas.jpeg",
+    "id": 3
+  }
+]
